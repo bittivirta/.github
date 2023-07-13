@@ -5,9 +5,11 @@
 <br/>
 <br/>
 
+# We are Bittivirta
+
 Bittivirta provides a variety of IT services, including maintenance, planning,
 repairs, and more. We offer exceptional quality customer service, affordable
 priceswithout sacrificing quality, and user-friendly services. Contact us today
 to find out how we can streamline your IT needs.
 
-### CUSTOMER ORIENTATION - QUALITY - SIMPLICITY
+## CUSTOMER ORIENTATION - QUALITY - SIMPLICITY
